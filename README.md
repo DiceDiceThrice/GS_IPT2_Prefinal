@@ -1,5 +1,4 @@
-<<<<<<< Updated upstream
-Dito ka baws SAPO weeeeeeeeeeeeeeeeeeeeeeeeeee
+
 =======
 # StockFlow — Inventory Management System
 
