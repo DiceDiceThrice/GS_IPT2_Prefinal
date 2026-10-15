@@ -1,5 +1,3 @@
-
-=======
 # StockFlow — Inventory Management System
 
 **A full-stack web application for small retail businesses to manage products, stock, sales, and purchases in real time.**
